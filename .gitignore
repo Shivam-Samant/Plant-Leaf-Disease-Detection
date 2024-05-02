@@ -1,0 +1,16 @@
+# Datasets/
+.DS_Store
+node_modules
+
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+.venv/*
+.vscode/
+Dataset/*
+
+cnn_model.pkl
+PlantLeafDiseaseDetection.zip
+static/cnn_model.pkl
